@@ -13,4 +13,15 @@ AntiWSManager goes to serverscriptservice, the local scripts go to StarterPlayer
 
 Add whitelisted people in the manager, FOLLOW THE FORMAT!!!!! Or else it'll break, and you won't be able to use the AdminViewer! And if you break it too bad, the system won't work at all!
 
-Should be easy enough! Earthquake controller is coming soon. And it will come with a custom ATOM LightBulb script that flickers the lights based on the earthquake!
+Should be easy enough! Earthquake controller is coming soon, and SusChat when its finished. And it will come with a custom ATOM LightBulb script that flickers the lights based on the earthquake!
+
+
+Something to note about SusChat, it's a psuedoai (machine-learning algrorithim) that'll be able to identify and ban predators, as well as be adaptive to new slang by implementing machine learning, moderators will train the SusChat AI model per-game by having it's Enabled turned off and Shadow turned on.
+
+Enabled with shadow mode = Learning from moderator input and actively attempting to ban pedophiles. 
+
+Disabled with shadow mode = training mode, moderators train it and switch it to the above mode when its adequately trained for their games audience.
+
+It can have legal issues if you actively label people as pedophiles, (they can sue for defamation if you labelled them when they were innocent), be careful with how you use it.
+
+I am not legally responsible for how YOU use my SusChat system.
