@@ -8,4 +8,6 @@ AntiWS Instructions: <img width="225" height="105" alt="image" src="https://gith
 
 AntiWSManager goes to serverscriptservice, the local scripts go to StarterPlayerScripts, IncidentRecorder (yes, it actually records incidents/robang incidents) goes into replicated storage.
 
+Add whitelisted people in the manager, FOLLOW THE FORMAT!!!!! Or else it'll break, and you won't be able to use the AdminViewer! And if you break it too bad, the system won't work at all!
+
 Should be easy enough! Earthquake controller is coming soon. And it will come with a custom ATOM LightBulb script that flickers the lights based on the earthquake!
